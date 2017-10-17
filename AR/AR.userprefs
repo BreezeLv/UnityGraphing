@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Particle Graphing\Scripts\Graph1.cs">
+    <Files>
+      <File FileName="Assets\Particle Graphing\Scripts\Graph1.cs" Line="58" Column="1" />
+      <File FileName="Assets\Particle Graphing\Scripts\ImitatedParticles.cs" Line="1" Column="1" />
+      <File FileName="Assets\UnityARKitPlugin\Examples\UnityParticlePainter\ParticlePainter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
