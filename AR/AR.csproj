@@ -90,8 +90,12 @@
     <Compile Include="Assets\CatCode Tutorial\Grapher1.cs" />
     <Compile Include="Assets\CatCode Tutorial\Grapher2.cs" />
     <Compile Include="Assets\CatCode Tutorial\Grapher3.cs" />
+    <Compile Include="Assets\Combined.cs" />
+    <Compile Include="Assets\ImitatedParticles2.cs" />
+    <Compile Include="Assets\MeshTest.cs" />
     <Compile Include="Assets\Particle Graphing\Scripts\Graph1.cs" />
-    <Compile Include="Assets\Particle Graphing\Scripts\ImitatedParticles.cs" />
+    <Compile Include="Assets\Particle Graphing\Scripts\ImitaedParticles2.cs" />
+    <Compile Include="Assets\Particle Graphing\Scripts\ImitatedParticles1.cs" />
     <Compile Include="Assets\UnityARKitPlugin\ARKitRemote\ARKitRemoteConnection.cs" />
     <Compile Include="Assets\UnityARKitPlugin\ARKitRemote\ConnectToEditor.cs" />
     <Compile Include="Assets\UnityARKitPlugin\ARKitRemote\ConnectionMessageIds.cs" />

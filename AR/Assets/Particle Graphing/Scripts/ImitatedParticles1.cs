@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ImitatedParticles : MonoBehaviour
+public class ImitatedParticles1 : MonoBehaviour
 {
     public enum FunctionOption : int
     {
@@ -78,6 +78,7 @@ public class ImitatedParticles : MonoBehaviour
             p.y = f(p.x);
             points[i].transform.position = p;
             points[i].GetComponent<MeshRenderer>().material.color = new Color(points[i].transform.position.x, points[i].transform.position.y, 0f);
+            //points[i].GetComponent<MeshRenderer>().materials[0].mainTexture
         }
     }
     private static float Linear(float x)
